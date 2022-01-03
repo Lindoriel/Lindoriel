@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Metrics](https://github.com/Lindoriel/Lindoriel/blob/main/github-metrics.svg)]
 
 <!--
 **Lindoriel/Lindoriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
